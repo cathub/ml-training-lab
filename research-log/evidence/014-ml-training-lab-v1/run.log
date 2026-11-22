@@ -1,0 +1,54 @@
+{"epoch": 1, "train_bce": 0.6543229271763312, "validation_bce": 0.614384090709304, "validation_roc_auc": 0.7636290809094344}
+{"epoch": 2, "train_bce": 0.5417521860160033, "validation_bce": 0.5614980715071272, "validation_roc_auc": 0.77732602799625}
+{"epoch": 3, "train_bce": 0.42436544445278057, "validation_bce": 0.5736129442293324, "validation_roc_auc": 0.7668673303068754}
+{"epoch": 4, "train_bce": 0.3296158959794464, "validation_bce": 0.6168756488250269, "validation_roc_auc": 0.7488847395596043}
+{"epoch": 5, "train_bce": 0.2612025905936218, "validation_bce": 0.6709819892843166, "validation_roc_auc": 0.7360062958715345}
+{"epoch": 6, "train_bce": 0.21267381751318865, "validation_bce": 0.7325671288834943, "validation_roc_auc": 0.725895983010489}
+{"epoch": 7, "train_bce": 0.1765332700875951, "validation_bce": 0.7960007287457377, "validation_roc_auc": 0.7183203583052389}
+{
+  "selected_epoch": 2,
+  "selected_validation": {
+    "epoch": 2,
+    "train_bce": 0.5417521860160033,
+    "validation_bce": 0.5614980715071272,
+    "validation_roc_auc": 0.77732602799625
+  },
+  "test": {
+    "bce": 0.5677073906402069,
+    "roc_auc": 0.7721060123448459
+  },
+  "dataset": {
+    "ratings": 100000,
+    "users": 943,
+    "movies": 1682,
+    "splits": {
+      "train": {
+        "ratings": 69575,
+        "users": 943,
+        "movies": 1641,
+        "positive": 38470,
+        "negative": 31105,
+        "positive_rate": 0.5529284944304708,
+        "ratings_with_unseen_movie": 0
+      },
+      "validation": {
+        "ratings": 14970,
+        "users": 943,
+        "movies": 1350,
+        "positive": 8299,
+        "negative": 6671,
+        "positive_rate": 0.55437541750167,
+        "ratings_with_unseen_movie": 24
+      },
+      "test": {
+        "ratings": 15455,
+        "users": 943,
+        "movies": 1355,
+        "positive": 8606,
+        "negative": 6849,
+        "positive_rate": 0.5568424458104173,
+        "ratings_with_unseen_movie": 23
+      }
+    }
+  }
+}

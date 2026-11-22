@@ -1,0 +1,11 @@
+{
+  "model": "8D",
+  "parameters": 23625,
+  "epochs_run": 8,
+  "selected_epoch": 3,
+  "checkpoint_train_bce": 0.47558584178646307,
+  "validation_bce": 0.5608234706765903,
+  "validation_roc_auc": 0.7762731787899739,
+  "gap": 0.08523762889012726,
+  "reused_phase1": false
+}

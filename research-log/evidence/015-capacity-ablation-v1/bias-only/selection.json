@@ -1,0 +1,11 @@
+{
+  "model": "Bias only",
+  "parameters": 2625,
+  "epochs_run": 16,
+  "selected_epoch": 11,
+  "checkpoint_train_bce": 0.5381785858581274,
+  "validation_bce": 0.5639443629968143,
+  "validation_roc_auc": 0.7731811381283935,
+  "gap": 0.025765777138686885,
+  "reused_phase1": false
+}

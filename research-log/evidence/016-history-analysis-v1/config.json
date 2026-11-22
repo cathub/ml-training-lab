@@ -1,0 +1,24 @@
+{
+  "data": "data/ml-100k.zip",
+  "seed": 42,
+  "minimum_users_per_bin": 30,
+  "minimum_validation_examples_per_bin": 100,
+  "checkpoints": {
+    "2": {
+      "checkpoint": "outputs/capacity-ablation/dim-2/best.pt",
+      "selected_epoch": 5
+    },
+    "8": {
+      "checkpoint": "outputs/capacity-ablation/dim-8/best.pt",
+      "selected_epoch": 3
+    },
+    "32": {
+      "checkpoint": "outputs/seed42/best.pt",
+      "selected_epoch": 2
+    },
+    "128": {
+      "checkpoint": "outputs/capacity-ablation/dim-128/best.pt",
+      "selected_epoch": 2
+    }
+  }
+}

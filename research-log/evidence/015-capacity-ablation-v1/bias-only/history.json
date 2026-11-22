@@ -1,0 +1,98 @@
+[
+  {
+    "epoch": 1,
+    "train_bce": 0.6566335202651276,
+    "validation_bce": 0.6260231962184868,
+    "validation_roc_auc": 0.7575631478772442
+  },
+  {
+    "epoch": 2,
+    "train_bce": 0.6050405447713514,
+    "validation_bce": 0.5964945262483381,
+    "validation_roc_auc": 0.7621452008718734
+  },
+  {
+    "epoch": 3,
+    "train_bce": 0.5804447230819828,
+    "validation_bce": 0.5825164177693283,
+    "validation_roc_auc": 0.7651849047847783
+  },
+  {
+    "epoch": 4,
+    "train_bce": 0.5669206130149079,
+    "validation_bce": 0.5750002903865032,
+    "validation_roc_auc": 0.7674995708747863
+  },
+  {
+    "epoch": 5,
+    "train_bce": 0.558595562122556,
+    "validation_bce": 0.5704934920719965,
+    "validation_roc_auc": 0.7692496864626859
+  },
+  {
+    "epoch": 6,
+    "train_bce": 0.5530753645706725,
+    "validation_bce": 0.5679231546605199,
+    "validation_roc_auc": 0.7704016006898806
+  },
+  {
+    "epoch": 7,
+    "train_bce": 0.5492652211127588,
+    "validation_bce": 0.5661930830142621,
+    "validation_roc_auc": 0.771338794261378
+  },
+  {
+    "epoch": 8,
+    "train_bce": 0.546421226744938,
+    "validation_bce": 0.5651629322755313,
+    "validation_roc_auc": 0.772056498617506
+  },
+  {
+    "epoch": 9,
+    "train_bce": 0.5443777137551425,
+    "validation_bce": 0.5644470648440665,
+    "validation_roc_auc": 0.7725983352416302
+  },
+  {
+    "epoch": 10,
+    "train_bce": 0.5427898532188585,
+    "validation_bce": 0.5642733659358843,
+    "validation_roc_auc": 0.7727315478461112
+  },
+  {
+    "epoch": 11,
+    "train_bce": 0.5415367047263271,
+    "validation_bce": 0.5639443629968143,
+    "validation_roc_auc": 0.7731811381283935
+  },
+  {
+    "epoch": 12,
+    "train_bce": 0.5405108200137323,
+    "validation_bce": 0.564008036078655,
+    "validation_roc_auc": 0.7732070762029744
+  },
+  {
+    "epoch": 13,
+    "train_bce": 0.5397105051414854,
+    "validation_bce": 0.5640012092325953,
+    "validation_roc_auc": 0.7733474777724157
+  },
+  {
+    "epoch": 14,
+    "train_bce": 0.5390291491875835,
+    "validation_bce": 0.5640354606813801,
+    "validation_roc_auc": 0.7735095997699097
+  },
+  {
+    "epoch": 15,
+    "train_bce": 0.5385717759910266,
+    "validation_bce": 0.5643536997940354,
+    "validation_roc_auc": 0.7734539665737332
+  },
+  {
+    "epoch": 16,
+    "train_bce": 0.5380840554770231,
+    "validation_bce": 0.5646730544412621,
+    "validation_roc_auc": 0.7732860554725463
+  }
+]

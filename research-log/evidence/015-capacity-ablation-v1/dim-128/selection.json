@@ -1,0 +1,11 @@
+{
+  "model": "128D",
+  "parameters": 338625,
+  "epochs_run": 7,
+  "selected_epoch": 2,
+  "checkpoint_train_bce": 0.2610566125809611,
+  "validation_bce": 0.566558301823093,
+  "validation_roc_auc": 0.7709630624658378,
+  "gap": 0.3055016892421319,
+  "reused_phase1": false
+}

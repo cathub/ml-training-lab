@@ -1,0 +1,44 @@
+[
+  {
+    "epoch": 1,
+    "train_bce": 0.648232178601523,
+    "validation_bce": 0.5912074715277316,
+    "validation_roc_auc": 0.7694109233866043
+  },
+  {
+    "epoch": 2,
+    "train_bce": 0.44289650731235797,
+    "validation_bce": 0.566558301823093,
+    "validation_roc_auc": 0.7709630624658378
+  },
+  {
+    "epoch": 3,
+    "train_bce": 0.22722414147455489,
+    "validation_bce": 0.6193383391491158,
+    "validation_roc_auc": 0.7484204191242434
+  },
+  {
+    "epoch": 4,
+    "train_bce": 0.0994995278160734,
+    "validation_bce": 0.6869905757362554,
+    "validation_roc_auc": 0.738596915258486
+  },
+  {
+    "epoch": 5,
+    "train_bce": 0.046060464763240855,
+    "validation_bce": 0.7474822600841841,
+    "validation_roc_auc": 0.7345875500240424
+  },
+  {
+    "epoch": 6,
+    "train_bce": 0.02509548609192171,
+    "validation_bce": 0.7976394727298556,
+    "validation_roc_auc": 0.7324301289954999
+  },
+  {
+    "epoch": 7,
+    "train_bce": 0.01584323238463623,
+    "validation_bce": 0.839143065221324,
+    "validation_roc_auc": 0.731157022907998
+  }
+]

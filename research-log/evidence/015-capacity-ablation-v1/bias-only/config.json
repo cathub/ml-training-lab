@@ -1,0 +1,18 @@
+{
+  "learning_rate": 0.01,
+  "batch_size": 1024,
+  "epochs": 40,
+  "patience": 5,
+  "seed": 42,
+  "device": "cpu",
+  "optimizer": "Adam",
+  "weight_decay": 0.0,
+  "loss": "BCEWithLogitsLoss",
+  "torch_threads": 1,
+  "embedding_dim": 0,
+  "parameters": 2625,
+  "data": "data/ml-100k.zip",
+  "initialization": "zero biases",
+  "reused_phase1": false,
+  "test_evaluated_in_ablation": false
+}

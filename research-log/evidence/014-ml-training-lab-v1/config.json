@@ -1,0 +1,14 @@
+{
+  "data": "data/ml-100k.zip",
+  "output": "outputs/seed42",
+  "embedding_dim": 32,
+  "learning_rate": 0.01,
+  "batch_size": 1024,
+  "epochs": 40,
+  "patience": 5,
+  "seed": 42,
+  "device": "cpu",
+  "optimizer": "Adam",
+  "loss": "BCEWithLogitsLoss",
+  "torch_threads": 1
+}
